@@ -6,5 +6,5 @@ This repository contains exercises in [my profile](https://exercism.org/profiles
 
 
 ### In progress
-- [Go](http://exercism.io/languages/go)
-- [JavaScript](http://exercism.io/languages/javascript)
+- [Elixir](https://exercism.org/tracks/elixir/exercises)
+- [JavaScript](https://exercism.org/tracks/javascript/exercises)
